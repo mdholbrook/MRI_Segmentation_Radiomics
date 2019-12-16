@@ -37,8 +37,7 @@ functions.
 
 
 ## Radiomics
-Radiomic features were calculated within the segmentation using [PyRadiomics](https://pyradiomics.readthedocs
-.io/en/latest/). 
+Radiomic features were calculated within the segmentation using [PyRadiomics](https://pyradiomics.readthedocs.io/en/latest/). 
 Radiomic 
 calculation are performed using [radiomic_calculations_batch.py](Radiomics/radiomic_calculations_batch.py).
 
