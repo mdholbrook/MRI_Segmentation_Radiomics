@@ -3,7 +3,7 @@ pandas
 nibabel
 scikit-learn
 scikit-image
-tensorflow-gpu==1.13
+tensorflow-gpu==1.15.0
 keras
 glob2
 ipython
