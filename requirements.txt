@@ -1,0 +1,29 @@
+scipy
+pandas
+nibabel
+scikit-learn
+scikit-image
+tensorflow-gpu==1.13
+keras
+glob2
+ipython
+matplotlib
+seaborn
+sphinx
+pytest
+xlrd
+pydicom
+nipype
+jsbeautifier
+lifelines
+python-pptx
+pynrrd
+
+# PyRadiomics requirements
+numpy>=1.9.2
+SimpleITK>=0.9.1
+PyWavelets>=0.4.0, <=1.0.0
+pykwalify>=1.6.0
+six>=1.10.0
+pyradiomics
+
